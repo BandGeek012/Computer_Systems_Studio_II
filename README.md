@@ -1,5 +1,5 @@
 # Computer_Systems_Studio_II
-Programs I made for Computer_Systems_Studio_II
+Program I made for Computer_Systems_Studio_II while attending K-State Polytechnic.
 
 ## Contents
 Rock,Paper,Scissors_Online_Server
